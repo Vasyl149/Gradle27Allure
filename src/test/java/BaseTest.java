@@ -31,7 +31,7 @@ public abstract class BaseTest {
 
     @AfterMethod
     public void postCondition() {
-        //DriverManager.quit();
+        DriverManager.quit();
     }
 
 
