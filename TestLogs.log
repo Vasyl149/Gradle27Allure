@@ -97,3 +97,1084 @@
 2022-04-09 17:09:34 INFO commonBO.MainMenuBO:54 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
 2022-04-09 17:09:40 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
 2022-04-09 17:09:40 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-04-09 18:05:35 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-09 18:05:35 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-09 18:05:35 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-09 18:05:35 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-09 18:05:37 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-09 18:05:37 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-09 18:05:37 INFO commonBO.MainMenuBO:46 -Check if 'Inbox' tab is selected
+2022-04-09 18:05:37 INFO commonBO.MainMenuBO:52 -Check if menu list contains 8 items
+2022-04-09 18:05:37 INFO commonBO.MainMenuBO:54 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-09 18:05:43 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-04-09 18:05:43 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-04-09 18:09:46 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-09 18:09:46 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-09 18:09:46 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-09 18:09:46 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-09 18:09:49 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-09 18:09:49 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-09 18:09:49 INFO commonBO.MainMenuBO:46 -Check if 'Inbox' tab is selected
+2022-04-09 18:09:49 INFO commonBO.MainMenuBO:52 -Check if menu list contains 8 items
+2022-04-09 18:09:49 INFO commonBO.MainMenuBO:54 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-09 18:09:54 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-04-09 18:09:54 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-04-10 15:30:01 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-10 15:30:02 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-10 15:30:02 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-10 15:30:02 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 15:30:04 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-10 15:30:04 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 15:30:04 INFO commonBO.MainMenuBO:46 -Check if 'Inbox' tab is selected
+2022-04-10 15:30:04 INFO commonBO.MainMenuBO:52 -Check if menu list contains 8 items
+2022-04-10 15:30:04 INFO commonBO.MainMenuBO:54 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-10 15:30:09 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-04-10 15:30:09 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-04-10 21:11:52 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-10 21:11:52 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-10 21:11:53 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-10 21:11:53 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 21:12:04 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-10 21:12:04 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 21:12:04 INFO commonBO.MainMenuBO:46 -Check if 'Inbox' tab is selected
+2022-04-10 21:12:04 INFO commonBO.MainMenuBO:52 -Check if menu list contains 8 items
+2022-04-10 21:12:04 INFO commonBO.MainMenuBO:54 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-10 21:12:09 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-04-10 21:12:09 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-04-10 21:47:40 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-10 21:47:41 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-10 21:47:41 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-10 21:47:41 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 21:47:47 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-10 21:47:47 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 21:47:47 INFO commonBO.MainMenuBO:46 -Check if 'Inbox' tab is selected
+2022-04-10 21:47:47 INFO commonBO.MainMenuBO:52 -Check if menu list contains 8 items
+2022-04-10 21:47:47 INFO commonBO.MainMenuBO:54 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-10 21:47:52 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-04-10 21:47:52 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-04-10 21:54:21 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-10 21:54:21 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-10 21:54:21 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-10 21:54:21 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 21:54:35 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-10 21:54:35 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 21:54:35 INFO commonBO.MainMenuBO:46 -Check if 'Inbox' tab is selected
+2022-04-10 21:54:35 INFO commonBO.MainMenuBO:52 -Check if menu list contains 8 items
+2022-04-10 21:54:35 INFO commonBO.MainMenuBO:54 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-10 21:54:40 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-04-10 21:54:40 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-04-10 21:55:32 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-10 21:55:32 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-10 21:55:33 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-10 21:55:33 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 21:55:42 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-10 21:55:42 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 21:55:42 INFO commonBO.MainMenuBO:46 -Check if 'Inbox' tab is selected
+2022-04-10 21:55:42 INFO commonBO.MainMenuBO:52 -Check if menu list contains 8 items
+2022-04-10 21:55:42 INFO commonBO.MainMenuBO:54 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-10 21:55:47 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-04-10 21:55:47 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-04-10 21:57:25 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-10 21:57:25 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-10 21:57:25 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-10 21:57:25 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 21:57:33 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-10 21:57:33 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 21:57:33 INFO commonBO.MainMenuBO:46 -Check if 'Inbox' tab is selected
+2022-04-10 21:57:33 INFO commonBO.MainMenuBO:52 -Check if menu list contains 8 items
+2022-04-10 21:57:33 INFO commonBO.MainMenuBO:54 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-10 21:57:38 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-04-10 21:57:38 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-04-10 22:07:51 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-10 22:07:51 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-10 22:07:51 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-10 22:07:51 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 22:08:14 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-10 22:08:14 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 22:08:14 INFO commonBO.MainMenuBO:46 -Check if 'Inbox' tab is selected
+2022-04-10 22:08:14 INFO commonBO.MainMenuBO:52 -Check if menu list contains 8 items
+2022-04-10 22:08:14 INFO commonBO.MainMenuBO:54 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-10 22:08:19 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-04-10 22:08:19 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-04-10 22:09:17 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-10 22:09:17 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-10 22:09:17 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-10 22:09:17 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 22:09:24 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-10 22:09:24 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 22:09:24 INFO commonBO.MainMenuBO:46 -Check if 'Inbox' tab is selected
+2022-04-10 22:09:24 INFO commonBO.MainMenuBO:52 -Check if menu list contains 8 items
+2022-04-10 22:09:24 INFO commonBO.MainMenuBO:54 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-10 22:09:29 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-04-10 22:09:29 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-04-10 22:10:08 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-10 22:10:08 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-10 22:10:08 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-10 22:10:08 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 22:10:14 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-10 22:10:14 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 22:10:14 INFO commonBO.MainMenuBO:46 -Check if 'Inbox' tab is selected
+2022-04-10 22:10:14 INFO commonBO.MainMenuBO:52 -Check if menu list contains 8 items
+2022-04-10 22:10:14 INFO commonBO.MainMenuBO:54 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-10 22:10:20 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-04-10 22:10:20 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-04-10 22:28:23 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-10 22:28:23 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-10 22:28:23 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-10 22:28:23 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 22:28:27 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-10 22:28:27 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 22:28:27 INFO commonBO.MainMenuBO:46 -Check if 'Inbox' tab is selected
+2022-04-10 22:28:27 INFO commonBO.MainMenuBO:52 -Check if menu list contains 8 items
+2022-04-10 22:28:27 INFO commonBO.MainMenuBO:54 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-10 22:28:32 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-04-10 22:28:32 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-04-10 22:31:54 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-10 22:31:54 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-10 22:31:54 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-10 22:31:54 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 22:32:03 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-10 22:32:03 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 22:32:03 INFO commonBO.MainMenuBO:46 -Check if 'Inbox' tab is selected
+2022-04-10 22:32:03 INFO commonBO.MainMenuBO:52 -Check if menu list contains 8 items
+2022-04-10 22:32:03 INFO commonBO.MainMenuBO:54 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-10 22:32:08 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-04-10 22:32:08 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-04-10 22:41:42 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-10 22:41:42 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-10 22:41:43 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-10 22:41:43 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 22:41:47 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-10 22:41:47 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 22:41:47 INFO commonBO.MainMenuBO:46 -Check if 'Inbox' tab is selected
+2022-04-10 22:41:48 INFO commonBO.MainMenuBO:52 -Check if menu list contains 8 items
+2022-04-10 22:41:48 INFO commonBO.MainMenuBO:54 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-10 22:41:53 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-04-10 22:41:53 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-04-10 22:42:41 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-10 22:42:41 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-10 22:42:42 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-10 22:42:42 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 22:42:50 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-10 22:42:50 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 22:42:50 INFO commonBO.MainMenuBO:46 -Check if 'Inbox' tab is selected
+2022-04-10 22:42:51 INFO commonBO.MainMenuBO:52 -Check if menu list contains 8 items
+2022-04-10 22:42:51 INFO commonBO.MainMenuBO:54 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-10 22:42:56 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-04-10 22:42:56 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-04-10 22:46:45 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-10 22:46:46 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-10 22:46:46 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-10 22:46:46 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 22:46:48 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-10 22:46:48 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-10 22:46:48 INFO commonBO.MainMenuBO:46 -Check if 'Inbox' tab is selected
+2022-04-10 22:46:48 INFO commonBO.MainMenuBO:52 -Check if menu list contains 8 items
+2022-04-10 22:46:48 INFO commonBO.MainMenuBO:54 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-10 22:46:53 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-04-10 22:46:53 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-04-11 10:42:36 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-11 10:42:36 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-11 10:42:37 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-11 10:42:37 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 10:42:38 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-11 10:42:38 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 10:42:38 INFO commonBO.MainMenuBO:46 -Check if 'Inbox' tab is selected
+2022-04-11 10:42:38 INFO commonBO.MainMenuBO:52 -Check if menu list contains 8 items
+2022-04-11 10:42:38 INFO commonBO.MainMenuBO:54 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-11 10:42:43 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-04-11 10:42:44 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-04-11 15:53:05 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-11 15:53:05 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-11 15:53:05 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-11 15:53:05 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 15:53:10 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-11 15:53:10 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 15:53:10 INFO commonBO.MainMenuBO:46 -Check if 'Inbox' tab is selected
+2022-04-11 15:53:10 INFO commonBO.MainMenuBO:52 -Check if menu list contains 8 items
+2022-04-11 15:53:10 INFO commonBO.MainMenuBO:54 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-11 15:53:15 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-04-11 15:53:15 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-04-11 15:55:21 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-11 15:55:21 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-11 15:55:22 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-11 15:55:22 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 15:55:23 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-11 15:55:23 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 15:55:23 INFO commonBO.MainMenuBO:50 -Check if 'Inbox' tab is selected
+2022-04-11 15:55:23 INFO commonBO.MainMenuBO:56 -Check if menu list contains 8 items
+2022-04-11 15:55:23 INFO commonBO.MainMenuBO:58 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-11 15:55:28 INFO commonBO.MainMenuBO:68 -Check if icons are displayed on left menu
+2022-04-11 15:55:29 INFO commonBO.MainMenuBO:74 -Check if message counter is equal to the number of messages
+2022-04-11 15:58:44 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-11 15:58:44 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-11 15:58:44 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-11 15:58:44 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 15:58:47 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-11 15:58:47 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 15:58:47 INFO commonBO.MainMenuBO:50 -Check if 'Inbox' tab is selected
+2022-04-11 16:04:58 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-11 16:04:58 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-11 16:04:58 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-11 16:04:58 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 16:05:00 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-11 16:05:00 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 16:05:00 INFO commonBO.MainMenuBO:50 -Check if 'Inbox' tab is selected
+2022-04-11 16:05:52 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-11 16:05:52 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-11 16:05:52 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-11 16:05:52 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 16:05:53 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-11 16:05:53 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 16:05:54 INFO commonBO.MainMenuBO:50 -Check if 'Inbox' tab is selected
+2022-04-11 16:06:30 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-11 16:06:30 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-11 16:06:30 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-11 16:06:30 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 16:06:31 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-11 16:06:31 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 16:06:31 INFO commonBO.MainMenuBO:50 -Check if 'Inbox' tab is selected
+2022-04-11 16:07:48 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-11 16:07:48 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-11 16:07:48 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-11 16:07:48 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 16:07:50 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-11 16:07:50 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 16:07:50 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-11 18:01:26 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-11 18:01:26 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-11 18:01:26 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-11 18:01:26 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 18:01:28 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-11 18:01:28 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 18:01:28 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-11 18:25:32 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-11 18:25:32 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-11 18:25:32 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-11 18:25:32 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 18:25:33 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-11 18:25:33 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 18:25:33 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-11 18:25:33 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-11 18:25:33 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-11 18:25:39 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-11 18:25:39 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-11 18:25:42 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-11 18:25:42 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-11 18:25:42 INFO commonBO.MainMenuBO:79 -Get drafts number
+2022-04-11 18:25:44 INFO commonBO.MainMenuBO:23 -open Compose page
+2022-04-11 18:25:44 INFO commonBO.MainMenuBO:13 -Edit font style
+2022-04-11 18:25:45 INFO commonBO.MainMenuBO:16 -Switch to textarea frame
+2022-04-11 18:25:45 INFO commonBO.MainMenuBO:18 -send text to textarea
+2022-04-11 18:25:45 INFO commonBO.MainMenuBO:25 -Verify the style of the elements
+2022-04-11 18:25:45 INFO commonBO.MainMenuBO:32 -Switch to parent frame
+2022-04-11 18:25:45 INFO commonBO.MainMenuBO:35 -Verify fonts in the dropdown
+2022-04-11 18:25:45 INFO commonBO.MainMenuBO:41 -Add file
+2022-04-11 18:25:48 INFO commonBO.MainMenuBO:79 -Get drafts number
+2022-04-11 18:25:49 INFO commonBO.MainMenuBO:84 -Verify Drafts number
+2022-04-11 18:25:49 INFO commonBO.MainMenuBO:11 -Select first draft
+2022-04-11 18:25:49 INFO commonBO.MainMenuBO:13 -click send button
+2022-04-11 18:25:49 INFO commonBO.MainMenuBO:15 -close alert
+2022-04-11 18:25:49 INFO commonBO.MainMenuBO:17 -fill in email field
+2022-04-11 18:25:50 INFO commonBO.MainMenuBO:20 -click send button
+2022-04-11 18:25:54 INFO commonBO.MainMenuBO:14 -Verify sent mail
+2022-04-11 18:39:32 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-11 18:39:32 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-11 18:39:32 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-11 18:39:32 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 18:39:34 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-11 18:39:34 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 18:39:34 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-11 18:39:34 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-11 18:39:34 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-11 18:39:39 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-11 18:39:39 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-11 18:40:25 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-11 18:40:25 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-11 18:40:25 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-11 18:40:25 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 18:40:28 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-11 18:40:28 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 18:40:28 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-11 18:40:29 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-11 18:40:29 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-11 18:40:34 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-11 18:40:34 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-11 18:42:24 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-11 18:42:24 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-11 18:42:24 INFO commonBO.MainMenuBO:79 -Get drafts number
+2022-04-11 18:42:28 INFO commonBO.MainMenuBO:23 -open Compose page
+2022-04-11 18:42:28 INFO commonBO.MainMenuBO:13 -Edit font style
+2022-04-11 18:42:30 INFO commonBO.MainMenuBO:16 -Switch to textarea frame
+2022-04-11 18:42:30 INFO commonBO.MainMenuBO:18 -send text to textarea
+2022-04-11 18:42:30 INFO commonBO.MainMenuBO:25 -Verify the style of the elements
+2022-04-11 18:42:30 INFO commonBO.MainMenuBO:32 -Switch to parent frame
+2022-04-11 18:42:30 INFO commonBO.MainMenuBO:35 -Verify fonts in the dropdown
+2022-04-11 18:42:30 INFO commonBO.MainMenuBO:41 -Add file
+2022-04-11 18:42:33 INFO commonBO.MainMenuBO:79 -Get drafts number
+2022-04-11 18:42:33 INFO commonBO.MainMenuBO:84 -Verify Drafts number
+2022-04-11 18:42:33 INFO commonBO.MainMenuBO:11 -Select first draft
+2022-04-11 18:42:34 INFO commonBO.MainMenuBO:13 -click send button
+2022-04-11 18:42:34 INFO commonBO.MainMenuBO:15 -close alert
+2022-04-11 18:42:34 INFO commonBO.MainMenuBO:17 -fill in email field
+2022-04-11 18:42:35 INFO commonBO.MainMenuBO:20 -click send button
+2022-04-11 18:42:39 INFO commonBO.MainMenuBO:14 -Verify sent mail
+2022-04-11 18:44:05 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-11 18:44:05 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-11 18:44:05 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-11 18:44:05 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 18:44:08 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-11 18:44:08 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 18:44:08 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-11 18:44:08 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-11 18:44:08 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-11 18:44:13 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-11 18:44:13 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-11 19:03:21 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-11 19:03:21 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-11 19:03:21 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-11 19:03:21 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 19:03:27 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-11 19:03:27 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 19:03:27 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-11 19:03:27 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-11 19:03:27 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-11 19:03:32 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-11 19:03:32 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-11 19:08:16 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-11 19:08:16 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-11 19:08:17 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-11 19:08:17 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 19:08:19 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-11 19:08:19 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 19:08:19 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-11 19:08:19 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-11 19:08:19 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-11 19:08:24 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-11 19:08:24 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-11 19:11:26 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-11 19:11:26 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-11 19:11:26 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-11 19:11:26 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 19:11:30 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-11 19:11:30 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 19:11:30 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-11 19:11:30 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-11 19:11:30 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-11 19:11:35 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-11 19:11:35 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-11 19:12:57 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-11 19:12:57 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-11 19:12:58 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-11 19:12:58 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 19:12:59 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-11 19:12:59 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 19:12:59 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-11 19:12:59 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-11 19:12:59 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-11 19:13:04 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-11 19:13:04 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-11 19:27:43 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-11 19:27:43 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-11 19:27:44 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-11 19:27:44 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 19:27:51 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-11 19:27:51 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 19:27:51 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-11 19:27:51 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-11 19:27:51 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-11 19:27:56 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-11 19:27:56 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-11 19:42:21 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-11 19:42:21 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-11 19:42:22 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-11 19:42:22 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 19:42:32 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-11 19:42:32 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-11 19:42:32 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-11 19:42:32 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-11 19:42:32 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-11 19:42:37 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-11 19:42:37 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-12 10:13:59 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-12 10:13:59 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-12 10:13:59 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-12 10:13:59 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-12 10:14:02 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-12 10:14:02 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-12 10:14:02 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-12 10:14:02 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-12 10:14:02 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-12 10:14:07 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-12 10:14:08 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-12 10:16:14 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-12 10:16:14 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-12 10:16:14 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-12 10:16:14 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-12 10:16:17 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-12 10:16:17 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-12 10:16:17 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-12 10:16:17 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-12 10:16:17 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-12 10:16:22 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-12 10:16:22 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-12 10:45:42 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-12 10:45:42 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-12 10:45:42 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-12 10:45:42 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-12 10:45:46 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-12 10:45:46 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-12 10:45:46 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-12 10:45:46 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-12 10:45:46 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-12 10:45:51 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-12 10:45:51 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-12 11:11:11 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-12 11:11:11 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-12 11:11:12 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-12 11:11:12 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-12 11:11:14 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-12 11:11:14 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-12 11:11:14 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-12 11:11:14 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-12 11:11:14 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-12 11:11:19 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-12 11:11:19 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-12 17:39:50 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-12 17:39:50 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-12 17:39:50 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-12 17:39:50 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-12 17:39:53 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-12 17:39:53 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-12 17:39:53 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-12 17:39:53 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-12 17:39:53 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-12 17:39:58 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-12 17:39:58 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-12 17:41:04 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-12 17:41:04 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-12 17:41:04 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-12 17:41:04 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-12 17:41:06 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-12 17:41:06 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-12 17:41:06 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-12 17:41:06 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-12 17:41:06 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-12 17:41:11 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-12 17:41:12 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-12 18:04:13 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-12 18:04:13 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-12 18:04:14 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-12 18:04:14 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-12 18:04:16 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-12 18:04:16 INFO commonBO.MainMenuBO:20 -Get unread letters number
+2022-04-12 18:04:16 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-12 18:04:16 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-12 18:04:16 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-12 18:04:22 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-12 18:04:22 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-12 18:26:12 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-12 18:26:12 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-12 18:26:12 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-12 18:26:12 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 18:26:12 INFO logging.Log:11 -Everything passed %s
+2022-04-12 18:26:14 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-12 18:26:14 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 18:26:14 INFO logging.Log:11 -Everything passed %s
+2022-04-12 18:26:14 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-12 18:26:14 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-12 18:26:14 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-12 18:26:19 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-12 18:26:20 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-12 18:37:33 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-12 18:37:33 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-12 18:37:33 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-12 18:37:33 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 18:37:33 INFO logging.Log:11 -Everything passed %s
+2022-04-12 18:37:36 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-12 18:37:36 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 18:37:36 INFO logging.Log:11 -Everything passed %s
+2022-04-12 18:37:36 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-12 18:37:36 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-12 18:37:36 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-12 18:37:41 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-12 18:37:41 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-12 18:37:41 INFO logging.Log:11 -TEST PASSED
+2022-04-12 18:44:56 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-12 18:44:56 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-12 18:44:56 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-12 18:44:56 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 18:44:56 INFO logging.Log:11 -Everything passed %s
+2022-04-12 18:44:59 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-12 18:44:59 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 18:44:59 INFO logging.Log:11 -Everything passed %s
+2022-04-12 18:44:59 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-12 18:44:59 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-12 18:44:59 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-12 18:45:04 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-12 18:45:05 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-12 18:45:05 INFO logging.Log:11 -TEST PASSED
+2022-04-12 18:49:50 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-12 18:49:50 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-12 18:49:51 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-12 18:49:51 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 18:49:51 INFO logging.Log:11 -Everything passed %s
+2022-04-12 18:49:53 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-12 18:49:53 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 18:49:53 INFO logging.Log:11 -Everything passed %s
+2022-04-12 18:49:53 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-12 18:49:53 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-12 18:49:53 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-12 18:49:58 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-12 18:49:59 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-12 18:49:59 INFO logging.Log:11 -TEST PASSED
+2022-04-12 18:56:56 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-12 18:56:56 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-12 18:56:56 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-12 18:56:56 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 18:56:56 INFO logging.Log:11 -Everything passed %s
+2022-04-12 18:56:59 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-12 18:56:59 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 18:56:59 INFO logging.Log:11 -Everything passed %s
+2022-04-12 18:56:59 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-12 18:56:59 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-12 18:56:59 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Se2nt', 'Spam' etc.
+2022-04-12 18:57:04 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-12 18:57:04 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-12 18:57:04 INFO logging.Log:11 -TEST PASSED
+2022-04-12 18:58:11 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-12 18:58:11 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-12 18:58:11 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-12 18:58:11 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 18:58:11 INFO logging.Log:11 -Everything passed %s
+2022-04-12 18:58:13 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-12 18:58:13 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 18:58:13 INFO logging.Log:11 -Everything passed %s
+2022-04-12 18:58:13 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-12 18:58:13 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-12 18:58:13 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-12 18:58:18 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-12 18:58:18 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-12 19:01:17 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-12 19:01:17 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-12 19:01:17 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-12 19:01:17 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 19:01:17 INFO logging.Log:11 -Everything passed %s
+2022-04-12 19:01:19 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-12 19:01:19 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 19:01:19 INFO logging.Log:11 -Everything passed %s
+2022-04-12 19:01:19 INFO commonBO.MainMenuBO:49 -Check if 'Inbox' tab is selected
+2022-04-12 19:01:19 INFO commonBO.MainMenuBO:55 -Check if menu list contains 8 items
+2022-04-12 19:01:19 INFO commonBO.MainMenuBO:57 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-12 19:01:24 INFO commonBO.MainMenuBO:67 -Check if icons are displayed on left menu
+2022-04-12 19:01:25 INFO commonBO.MainMenuBO:73 -Check if message counter is equal to the number of messages
+2022-04-12 19:01:25 INFO logging.Log:11 -Everything not passed %s
+2022-04-12 19:04:25 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-12 19:04:25 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-12 19:04:25 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-12 19:04:25 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 19:04:25 INFO logging.Log:11 -Everything passed %s
+2022-04-12 19:04:28 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-12 19:04:28 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 19:04:28 INFO logging.Log:11 -Everything passed %s
+2022-04-12 19:04:28 INFO commonBO.MainMenuBO:52 -Check if 'Inbox' tab is selected
+2022-04-12 19:04:28 INFO commonBO.MainMenuBO:58 -Check if menu list contains 8 items
+2022-04-12 19:04:28 INFO commonBO.MainMenuBO:60 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-12 19:04:33 INFO commonBO.MainMenuBO:70 -Check if icons are displayed on left menu
+2022-04-12 19:04:33 INFO commonBO.MainMenuBO:77 -Check if message counter is equal to the number of messages
+2022-04-12 19:04:33 INFO logging.Log:11 -Everything not passed %s
+2022-04-12 19:04:33 INFO logging.Log:11 -Everything not passed %s
+2022-04-12 19:13:51 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-12 19:13:51 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-12 19:13:51 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-12 19:13:51 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 19:13:51 INFO logging.Log:11 -Everything passed %s
+2022-04-12 19:13:54 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-12 19:13:54 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 19:13:54 INFO logging.Log:11 -Everything passed %s
+2022-04-12 19:13:54 INFO commonBO.MainMenuBO:52 -Check if 'Inbox' tab is selected
+2022-04-12 19:13:54 INFO commonBO.MainMenuBO:58 -Check if menu list contains 8 items
+2022-04-12 19:13:54 INFO commonBO.MainMenuBO:60 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-12 19:14:00 INFO commonBO.MainMenuBO:70 -Check if icons are displayed on left menu
+2022-04-12 19:14:00 INFO commonBO.MainMenuBO:77 -Check if message counter is equal to the number of messages
+2022-04-12 19:14:00 INFO logging.Log:11 -Everything not passed %s
+2022-04-12 19:14:00 INFO logging.Log:11 -Everything not passed %s
+2022-04-12 19:14:00 INFO logging.Log:11 -TEST PASSED
+2022-04-12 19:15:20 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-12 19:15:20 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-12 19:15:20 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-12 19:15:20 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 19:15:20 INFO logging.Log:11 -Everything passed %s
+2022-04-12 19:15:23 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-12 19:15:23 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 19:15:23 INFO logging.Log:11 -Everything passed %s
+2022-04-12 19:15:23 INFO commonBO.MainMenuBO:52 -Check if 'Inbox' tab is selected
+2022-04-12 19:15:23 INFO commonBO.MainMenuBO:58 -Check if menu list contains 8 items
+2022-04-12 19:15:23 INFO commonBO.MainMenuBO:60 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-12 19:15:28 INFO commonBO.MainMenuBO:70 -Check if icons are displayed on left menu
+2022-04-12 19:15:28 INFO commonBO.MainMenuBO:77 -Check if message counter is equal to the number of messages
+2022-04-12 19:15:28 INFO logging.Log:11 -Everything not passed %s
+2022-04-12 19:15:28 INFO logging.Log:11 -TEST PASSED
+2022-04-12 19:20:04 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-12 19:20:04 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-12 19:20:04 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-12 19:20:04 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 19:20:04 INFO logging.Log:11 -Everything passed %s
+2022-04-12 19:20:06 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-12 19:20:06 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 19:20:06 INFO logging.Log:11 -Everything passed %s
+2022-04-12 19:20:07 INFO commonBO.MainMenuBO:52 -Check if 'Inbox' tab is selected
+2022-04-12 19:20:07 INFO commonBO.MainMenuBO:58 -Check if menu list contains 8 items
+2022-04-12 19:20:07 INFO commonBO.MainMenuBO:60 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-12 19:20:12 INFO commonBO.MainMenuBO:70 -Check if icons are displayed on left menu
+2022-04-12 19:20:12 INFO commonBO.MainMenuBO:77 -Check if message counter is equal to the number of messages
+2022-04-12 19:20:12 INFO logging.Log:11 -Everything not passed %s
+2022-04-12 19:20:12 INFO logging.Log:11 -TEST PASSED
+2022-04-12 19:37:39 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-12 19:37:39 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-12 19:37:39 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-12 19:37:39 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 19:37:39 INFO logging.Log:11 -Everything passed %s
+2022-04-12 19:37:42 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-12 19:37:42 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 19:37:42 INFO logging.Log:11 -Everything passed %s
+2022-04-12 19:37:42 INFO commonBO.MainMenuBO:54 -Check if 'Inbox' tab is selected
+2022-04-12 19:37:42 INFO commonBO.MainMenuBO:61 -Check if menu list contains 8 items
+2022-04-12 19:37:42 INFO commonBO.MainMenuBO:63 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-12 19:37:47 INFO commonBO.MainMenuBO:73 -Check if icons are displayed on left menu
+2022-04-12 19:37:47 INFO commonBO.MainMenuBO:80 -Check if message counter is equal to the number of messages
+2022-04-12 19:37:47 INFO logging.Log:11 -Everything not passed %s
+2022-04-12 19:37:47 INFO logging.Log:11 -TEST PASSED
+2022-04-12 19:41:09 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-12 19:41:09 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-12 19:41:10 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-12 19:41:10 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 19:41:10 INFO logging.Log:11 -Everything passed %s
+2022-04-12 19:41:15 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-12 19:41:15 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 19:41:15 INFO logging.Log:11 -Everything passed %s
+2022-04-12 19:41:15 INFO commonBO.MainMenuBO:54 -Check if 'Inbox' tab is selected
+2022-04-12 19:41:15 INFO commonBO.MainMenuBO:61 -Check if menu list contains 8 items
+2022-04-12 19:41:15 INFO commonBO.MainMenuBO:63 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-12 19:41:20 INFO commonBO.MainMenuBO:73 -Check if icons are displayed on left menu
+2022-04-12 19:41:20 INFO commonBO.MainMenuBO:80 -Check if message counter is equal to the number of messages
+2022-04-12 19:41:20 INFO logging.Log:11 -Everything not passed %s
+2022-04-12 19:41:20 INFO logging.Log:11 -TEST PASSED
+2022-04-12 19:47:08 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-12 19:47:09 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-12 19:47:09 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-04-12 19:47:09 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 19:47:09 INFO logging.Log:11 -Everything passed %s
+2022-04-12 19:47:14 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-04-12 19:47:14 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 19:47:14 INFO logging.Log:11 -Everything passed %s
+2022-04-12 19:47:14 INFO commonBO.MainMenuBO:54 -Check if 'Inbox' tab is selected
+2022-04-12 19:47:14 INFO commonBO.MainMenuBO:61 -Check if menu list contains 8 items
+2022-04-12 19:47:14 INFO commonBO.MainMenuBO:63 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-12 19:47:19 INFO commonBO.MainMenuBO:73 -Check if icons are displayed on left menu
+2022-04-12 19:47:19 INFO commonBO.MainMenuBO:80 -Check if message counter is equal to the number of messages
+2022-04-12 19:47:19 INFO logging.Log:11 -Everything not passed %s
+2022-04-12 19:47:19 INFO logging.Log:11 -TEST PASSED
+2022-04-12 19:49:50 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-12 19:49:51 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-12 19:49:51 INFO commonBO.MainMenuBO:20 -Check if there are new emails in the mailbox
+2022-04-12 19:49:51 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 19:49:51 INFO logging.Log:11 -Everything passed %s
+2022-04-12 19:49:54 INFO commonBO.MainMenuBO:13 -Get unread letters number
+2022-04-12 19:49:54 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-12 19:49:54 INFO logging.Log:11 -Everything passed %s
+2022-04-12 19:49:54 INFO commonBO.MainMenuBO:54 -Check if 'Inbox' tab is selected
+2022-04-12 19:49:54 INFO commonBO.MainMenuBO:61 -Check if menu list contains 8 items
+2022-04-12 19:49:54 INFO commonBO.MainMenuBO:63 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-12 19:49:59 INFO commonBO.MainMenuBO:73 -Check if icons are displayed on left menu
+2022-04-12 19:49:59 INFO commonBO.MainMenuBO:80 -Check if message counter is equal to the number of messages
+2022-04-12 19:49:59 INFO logging.Log:11 -Everything not passed %s
+2022-04-12 19:49:59 INFO logging.Log:11 -TEST PASSED
+2022-04-13 10:22:28 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 10:22:28 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 10:22:29 INFO commonBO.MainMenuBO:21 -Check if there are new emails in the mailbox
+2022-04-13 10:22:29 INFO logging.Log:11 -Everything passed 
+2022-04-13 10:22:29 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 10:22:29 INFO logging.Log:11 -Everything passed 
+2022-04-13 10:22:30 INFO commonBO.MainMenuBO:14 -Get unread letters number
+2022-04-13 10:22:30 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 10:22:30 INFO logging.Log:11 -Everything passed 
+2022-04-13 10:22:30 INFO commonBO.MainMenuBO:54 -Check if 'Inbox' tab is selected
+2022-04-13 10:22:30 INFO commonBO.MainMenuBO:61 -Check if menu list contains 8 items
+2022-04-13 10:22:31 INFO commonBO.MainMenuBO:63 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-13 10:22:36 INFO commonBO.MainMenuBO:73 -Check if icons are displayed on left menu
+2022-04-13 10:22:36 INFO commonBO.MainMenuBO:80 -Check if message counter is equal to the number of messages
+2022-04-13 10:22:36 INFO logging.Log:11 -Everything not passed %s
+2022-04-13 10:22:36 INFO logging.Log:11 -TEST PASSED
+2022-04-13 10:24:15 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 10:24:15 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 10:24:15 INFO commonBO.MainMenuBO:21 -Check if there are new emails in the mailbox
+2022-04-13 10:24:15 INFO logging.Log:11 -Everything passed 
+2022-04-13 10:24:15 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 10:24:15 INFO logging.Log:11 -Everything passed 
+2022-04-13 10:25:45 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 10:25:45 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 10:25:46 INFO commonBO.MainMenuBO:21 -Check if there are new emails in the mailbox
+2022-04-13 10:25:46 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 10:25:46 INFO logging.Log:11 -Everything passed 
+2022-04-13 10:29:27 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 10:29:27 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 10:29:27 INFO commonBO.MainMenuBO:21 -Check if there are new emails in the mailbox
+2022-04-13 10:29:27 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 10:29:27 INFO logging.Log:11 -Everything passed 
+2022-04-13 10:29:29 INFO logging.Log:11 -TEST FAILED
+2022-04-13 10:46:37 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 10:46:37 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 10:46:37 INFO logging.Log:16 -TEST FAILED
+2022-04-13 10:46:37 INFO commonBO.MainMenuBO:21 -Check if there are new emails in the mailbox
+2022-04-13 10:46:37 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 10:46:37 INFO logging.Log:11 -Everything passed 
+2022-04-13 10:46:39 INFO logging.Log:11 -TEST FAILED
+2022-04-13 10:48:18 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 10:48:18 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 10:48:19 INFO logging.Log:16 -TEST FAILED
+2022-04-13 10:48:19 INFO commonBO.MainMenuBO:21 -Check if there are new emails in the mailbox
+2022-04-13 10:48:19 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 10:48:19 INFO logging.Log:11 -Everything passed 
+2022-04-13 10:48:20 INFO logging.Log:11 -TEST FAILED
+2022-04-13 10:50:45 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 10:50:45 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 10:50:45 INFO logging.Log:16 -Start test
+2022-04-13 10:50:45 INFO commonBO.MainMenuBO:21 -Check if there are new emails in the mailbox
+2022-04-13 10:50:45 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 10:50:45 INFO logging.Log:11 -Everything passed 
+2022-04-13 10:50:47 INFO logging.Log:11 -TEST FAILED
+2022-04-13 10:55:03 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 10:55:03 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 10:55:03 INFO logging.Log:16 -
+2022-04-13 10:55:03 INFO commonBO.MainMenuBO:21 -Check if there are new emails in the mailbox
+2022-04-13 10:55:03 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 10:55:03 INFO logging.Log:11 -Everything passed 
+2022-04-13 10:55:05 INFO logging.Log:11 -TEST FAILED
+2022-04-13 10:56:07 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 10:56:07 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 10:56:07 INFO logging.Log:16 -menuListTest2
+2022-04-13 10:56:07 INFO commonBO.MainMenuBO:21 -Check if there are new emails in the mailbox
+2022-04-13 10:56:07 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 10:56:07 INFO logging.Log:11 -Everything passed 
+2022-04-13 10:56:08 INFO logging.Log:11 -TEST FAILED
+2022-04-13 10:59:05 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 10:59:05 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 10:59:05 INFO commonBO.MainMenuBO:21 -Check if there are new emails in the mailbox
+2022-04-13 10:59:05 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 10:59:05 INFO logging.Log:11 -Everything passed 
+2022-04-13 10:59:06 INFO logging.Log:11 -Everything passed 
+2022-04-13 10:59:06 INFO commonBO.MainMenuBO:14 -Get unread letters number
+2022-04-13 10:59:06 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 10:59:06 INFO logging.Log:11 -Everything passed 
+2022-04-13 10:59:06 INFO commonBO.MainMenuBO:54 -Check if 'Inbox' tab is selected
+2022-04-13 10:59:06 INFO commonBO.MainMenuBO:61 -Check if menu list contains 8 items
+2022-04-13 10:59:06 INFO commonBO.MainMenuBO:63 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-13 10:59:11 INFO commonBO.MainMenuBO:73 -Check if icons are displayed on left menu
+2022-04-13 10:59:12 INFO commonBO.MainMenuBO:80 -Check if message counter is equal to the number of messages
+2022-04-13 10:59:12 INFO logging.Log:11 -Everything not passed %s
+2022-04-13 10:59:12 INFO logging.Log:11 -TEST PASSED
+2022-04-13 11:14:31 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 11:14:31 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 11:14:31 INFO commonBO.MainMenuBO:21 -Check if there are new emails in the mailbox
+2022-04-13 11:14:31 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 11:14:31 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:14:33 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:14:33 INFO commonBO.MainMenuBO:14 -Get unread letters number
+2022-04-13 11:14:33 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 11:14:33 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:14:33 INFO commonBO.MainMenuBO:54 -Check if 'Inbox' tab is selected
+2022-04-13 11:14:33 INFO commonBO.MainMenuBO:61 -Check if menu list contains 8 items
+2022-04-13 11:14:33 INFO commonBO.MainMenuBO:63 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-13 11:14:38 INFO commonBO.MainMenuBO:73 -Check if icons are displayed on left menu
+2022-04-13 11:14:38 INFO commonBO.MainMenuBO:80 -Check if message counter is equal to the number of messages
+2022-04-13 11:14:38 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:14:38 INFO logging.Log:11 -TEST PASSED
+2022-04-13 11:15:58 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 11:15:58 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 11:15:58 INFO commonBO.MainMenuBO:21 -Check if there are new emails in the mailbox
+2022-04-13 11:15:58 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 11:15:58 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:16:02 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:16:02 INFO commonBO.MainMenuBO:14 -Get unread letters number
+2022-04-13 11:16:02 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 11:16:02 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:16:02 INFO commonBO.MainMenuBO:54 -Check if 'Inbox' tab is selected
+2022-04-13 11:16:02 INFO commonBO.MainMenuBO:61 -Check if menu list contains 8 items
+2022-04-13 11:16:02 INFO commonBO.MainMenuBO:63 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-13 11:16:07 INFO commonBO.MainMenuBO:73 -Check if icons are displayed on left menu
+2022-04-13 11:16:08 INFO commonBO.MainMenuBO:80 -Check if message counter is equal to the number of messages
+2022-04-13 11:16:08 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:16:08 INFO logging.Log:11 -TEST PASSED
+2022-04-13 11:18:10 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 11:18:10 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 11:18:10 INFO commonBO.MainMenuBO:21 -Check if there are new emails in the mailbox
+2022-04-13 11:18:10 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 11:18:10 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:18:11 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:18:11 INFO commonBO.MainMenuBO:14 -Get unread letters number
+2022-04-13 11:18:11 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 11:18:11 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:18:11 INFO commonBO.MainMenuBO:54 -Check if 'Inbox' tab is selected
+2022-04-13 11:18:12 INFO commonBO.MainMenuBO:61 -Check if menu list contains 8 items
+2022-04-13 11:18:12 INFO commonBO.MainMenuBO:63 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-13 11:18:17 INFO commonBO.MainMenuBO:73 -Check if icons are displayed on left menu
+2022-04-13 11:18:17 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:18:17 INFO commonBO.MainMenuBO:81 -Check if message counter is equal to the number of messages
+2022-04-13 11:18:17 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:18:17 INFO logging.Log:11 -TEST PASSED
+2022-04-13 11:26:55 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 11:26:55 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 11:26:55 INFO commonBO.MainMenuBO:21 -Check if there are new emails in the mailbox
+2022-04-13 11:26:55 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 11:26:55 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:26:57 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:26:57 INFO commonBO.MainMenuBO:14 -Get unread letters number
+2022-04-13 11:26:57 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 11:26:57 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:26:57 INFO commonBO.MainMenuBO:54 -Check if 'Inbox' tab is selected
+2022-04-13 11:26:57 INFO commonBO.MainMenuBO:61 -Check if menu list contains 8 items
+2022-04-13 11:26:57 INFO logging.Log:11 -Check if menu list contains 8 items
+2022-04-13 11:26:57 INFO commonBO.MainMenuBO:64 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-13 11:27:02 INFO commonBO.MainMenuBO:74 -Check if icons are displayed on left menu
+2022-04-13 11:27:02 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:27:02 INFO commonBO.MainMenuBO:82 -Check if message counter is equal to the number of messages
+2022-04-13 11:27:02 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:27:02 INFO logging.Log:11 -TEST PASSED
+2022-04-13 11:32:56 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 11:32:56 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 11:32:56 INFO commonBO.MainMenuBO:21 -Check if there are new emails in the mailbox
+2022-04-13 11:32:56 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 11:32:56 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:32:58 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:32:58 INFO commonBO.MainMenuBO:14 -Get unread letters number
+2022-04-13 11:32:58 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 11:32:58 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:32:58 INFO commonBO.MainMenuBO:54 -Check if 'Inbox' tab is selected
+2022-04-13 11:32:58 INFO commonBO.MainMenuBO:61 -Check if menu list contains 8 items
+2022-04-13 11:32:58 INFO logging.Log:11 -Check if menu list contains 8 items
+2022-04-13 11:32:58 INFO commonBO.MainMenuBO:64 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-13 11:33:03 INFO commonBO.MainMenuBO:74 -Check if icons are displayed on left menu
+2022-04-13 11:33:03 INFO logging.Log:11 -Check if menu list contains 8 items
+Everything passed
+ Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+Check if icons are displayed on left menu 
+2022-04-13 11:33:03 INFO commonBO.MainMenuBO:85 -Check if message counter is equal to the number of messages
+2022-04-13 11:33:03 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:33:03 INFO logging.Log:11 -TEST PASSED
+2022-04-13 11:34:45 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 11:34:45 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 11:34:45 INFO commonBO.MainMenuBO:21 -Check if there are new emails in the mailbox
+2022-04-13 11:34:45 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 11:34:45 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:34:47 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:34:47 INFO commonBO.MainMenuBO:14 -Get unread letters number
+2022-04-13 11:34:47 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 11:34:47 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:34:47 INFO commonBO.MainMenuBO:54 -Check if 'Inbox' tab is selected
+2022-04-13 11:34:47 INFO commonBO.MainMenuBO:61 -Check if menu list contains 8 items
+2022-04-13 11:34:47 INFO logging.Log:11 -Check if menu list contains 8 items
+2022-04-13 11:34:47 INFO commonBO.MainMenuBO:64 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-13 11:34:52 INFO commonBO.MainMenuBO:74 -Check if icons are displayed on left menu
+2022-04-13 11:34:52 INFO logging.Log:11 -Check if menu list contains 8 items
+Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+Check if icons are displayed on left menu
+Everything passed 
+2022-04-13 11:34:52 INFO commonBO.MainMenuBO:85 -Check if message counter is equal to the number of messages
+2022-04-13 11:34:52 INFO logging.Log:11 -Everything passed 
+2022-04-13 11:34:52 INFO logging.Log:11 -TEST PASSED
+2022-04-13 17:10:30 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 17:10:30 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 17:10:31 INFO commonBO.MainMenuBO:21 -Check if there are new emails in the mailbox
+2022-04-13 17:10:31 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 17:10:31 INFO logging.Log:11 -Everything passed 
+2022-04-13 17:10:32 INFO logging.Log:11 -Everything passed 
+2022-04-13 17:10:32 INFO commonBO.MainMenuBO:14 -Get unread letters number
+2022-04-13 17:10:32 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 17:10:32 INFO logging.Log:11 -Everything passed 
+2022-04-13 17:10:32 INFO commonBO.MainMenuBO:54 -Check if 'Inbox' tab is selected
+2022-04-13 17:10:32 INFO commonBO.MainMenuBO:61 -Check if menu list contains 8 items
+2022-04-13 17:10:32 INFO commonBO.MainMenuBO:63 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-13 17:10:38 INFO commonBO.MainMenuBO:73 -Check if icons are displayed on left menu
+2022-04-13 17:10:38 INFO logging.Log:11 -Check if menu list contains 8 items
+Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+Check if icons are displayed on left menu
+Everything passed 
+2022-04-13 17:10:38 INFO commonBO.MainMenuBO:84 -Check if message counter is equal to the number of messages
+2022-04-13 17:10:38 INFO logging.Log:11 -Everything passed 
+2022-04-13 17:10:38 INFO logging.Log:11 -TEST PASSED
+2022-04-13 17:25:09 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 17:25:09 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 17:25:09 INFO commonBO.MainMenuBO:21 -Check if there are new emails in the mailbox
+2022-04-13 17:25:09 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 17:25:09 INFO logging.Log:11 -Everything passed 
+2022-04-13 17:25:14 INFO logging.Log:11 -Everything passed 
+2022-04-13 17:25:14 INFO commonBO.MainMenuBO:14 -Get unread letters number
+2022-04-13 17:25:14 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 17:25:14 INFO logging.Log:11 -Everything passed 
+2022-04-13 17:25:14 INFO commonBO.MainMenuBO:54 -Check if 'Inbox' tab is selected
+2022-04-13 17:25:14 INFO commonBO.MainMenuBO:61 -Check if menu list contains 8 items
+2022-04-13 17:25:14 INFO commonBO.MainMenuBO:63 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-13 17:25:19 INFO commonBO.MainMenuBO:73 -Check if icons are displayed on left menu
+2022-04-13 17:25:20 INFO logging.Log:11 -Check if menu list contains 8 items
+Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+Check if icons are displayed on left menu
+Everything passed 
+2022-04-13 17:25:20 INFO commonBO.MainMenuBO:84 -Check if message counter is equal to the number of messages
+2022-04-13 17:25:20 INFO logging.Log:11 -Everything passed 
+2022-04-13 17:25:20 INFO logging.Log:11 -TEST PASSED
+2022-04-13 17:34:25 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 17:34:25 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 17:34:25 INFO commonBO.MainMenuBO:22 -Check if there are new emails in the mailbox
+2022-04-13 17:34:25 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 17:34:27 INFO logging.Log:11 -Everything passed 
+2022-04-13 17:34:27 INFO commonBO.MainMenuBO:14 -Get unread letters number
+2022-04-13 17:34:27 INFO logging.Log:16 -Get unread letters number
+2022-04-13 17:34:27 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 17:34:27 INFO commonBO.MainMenuBO:54 -Check if 'Inbox' tab is selected
+2022-04-13 17:34:27 INFO logging.Log:16 -Check if 'Inbox' tab is selected
+2022-04-13 17:34:27 INFO commonBO.MainMenuBO:62 -Check if menu list contains 8 items
+2022-04-13 17:34:27 INFO commonBO.MainMenuBO:64 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-13 17:34:32 INFO commonBO.MainMenuBO:74 -Check if icons are displayed on left menu
+2022-04-13 17:34:33 INFO logging.Log:11 -Check if menu list contains 8 items
+Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+Check if icons are displayed on left menu
+Everything passed 
+2022-04-13 17:34:33 INFO commonBO.MainMenuBO:85 -Check if message counter is equal to the number of messages
+2022-04-13 17:34:33 INFO logging.Log:11 -Everything passed 
+2022-04-13 17:34:33 INFO logging.Log:11 -TEST PASSED
+2022-04-13 17:41:50 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 17:41:50 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 17:41:51 INFO commonBO.MainMenuBO:22 -Check if there are new emails in the mailbox
+2022-04-13 17:41:51 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 17:41:52 INFO logging.Log:11 -Everything passed 
+2022-04-13 17:41:52 INFO commonBO.MainMenuBO:14 -Get unread letters number
+2022-04-13 17:41:52 INFO logging.Log:16 -Get unread letters number
+2022-04-13 17:41:52 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 17:41:52 INFO commonBO.MainMenuBO:54 -Check if 'Inbox' tab is selected
+2022-04-13 17:41:52 INFO logging.Log:16 -Check if 'Inbox' tab is selected
+2022-04-13 17:41:52 INFO commonBO.MainMenuBO:62 -Check if menu list contains 8 items
+2022-04-13 17:41:52 INFO commonBO.MainMenuBO:64 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-13 17:41:58 INFO commonBO.MainMenuBO:74 -Check if icons are displayed on left menu
+2022-04-13 17:41:58 INFO logging.Log:11 -Check if menu list contains 8 items
+Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+Check if icons are displayed on left menu
+Everything passed 
+2022-04-13 17:41:58 INFO commonBO.MainMenuBO:85 -Check if message counter is equal to the number of messages
+2022-04-13 17:41:58 INFO logging.Log:11 -Everything passed 
+2022-04-13 17:41:58 INFO logging.Log:11 -TEST PASSED
+2022-04-13 17:45:26 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 17:45:26 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 17:45:26 INFO commonBO.MainMenuBO:22 -Check if there are new emails in the mailbox
+2022-04-13 17:45:26 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 17:45:27 INFO logging.Log:11 -Everything passed 
+2022-04-13 17:45:27 INFO commonBO.MainMenuBO:14 -Get unread letters number
+2022-04-13 17:45:27 INFO logging.Log:16 -Get unread letters number
+2022-04-13 17:45:27 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 17:45:27 INFO commonBO.MainMenuBO:54 -Check if 'Inbox' tab is selected
+2022-04-13 17:45:27 INFO logging.Log:16 -Check if 'Inbox' tab is selected
+2022-04-13 17:45:27 INFO logging.Log:11 -TEST FAILED
+2022-04-13 17:54:56 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 17:54:56 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 17:54:57 INFO commonBO.MainMenuBO:22 -Check if there are new emails in the mailbox
+2022-04-13 17:54:57 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 17:54:58 INFO logging.Log:11 -Everything passed 
+2022-04-13 17:54:58 INFO commonBO.MainMenuBO:14 -Get unread letters number
+2022-04-13 17:54:58 INFO logging.Log:16 -Get unread letters number
+2022-04-13 17:54:58 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 17:54:58 INFO commonBO.MainMenuBO:54 -Check if 'Inbox' tab is selected
+2022-04-13 17:54:58 INFO logging.Log:16 -Check if 'Inbox' tab is selected
+2022-04-13 17:54:58 INFO commonBO.MainMenuBO:63 -Check if menu list contains 8 items
+2022-04-13 17:54:58 INFO commonBO.MainMenuBO:65 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-13 17:55:03 INFO commonBO.MainMenuBO:75 -Check if icons are displayed on left menu
+2022-04-13 17:55:03 INFO logging.Log:11 -Check if menu list contains 8 items
+Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+Check if icons are displayed on left menu
+Everything passed 
+2022-04-13 17:55:03 INFO commonBO.MainMenuBO:86 -Check if message counter is equal to the number of messages
+2022-04-13 17:55:03 INFO logging.Log:11 -Everything passed 
+2022-04-13 17:55:03 INFO logging.Log:11 -TEST PASSED
+2022-04-13 17:57:20 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-13 17:57:20 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-13 17:57:21 INFO commonBO.MainMenuBO:22 -Check if there are new emails in the mailbox
+2022-04-13 17:57:21 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 17:57:22 INFO logging.Log:11 -Everything passed 
+2022-04-13 17:57:22 INFO commonBO.MainMenuBO:14 -Get unread letters number
+2022-04-13 17:57:22 INFO logging.Log:16 -Get unread letters number
+2022-04-13 17:57:22 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-13 17:57:22 INFO commonBO.MainMenuBO:54 -Check if 'Inbox' tab is selected
+2022-04-13 17:57:22 INFO logging.Log:11 -Check if 'Inbox' tab is selected
+2022-04-13 17:57:22 INFO logging.Log:16 -Everything passed
+2022-04-13 17:57:22 INFO commonBO.MainMenuBO:64 -Check if menu list contains 8 items
+2022-04-13 17:57:22 INFO commonBO.MainMenuBO:66 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-13 17:57:27 INFO commonBO.MainMenuBO:76 -Check if icons are displayed on left menu
+2022-04-13 17:57:27 INFO logging.Log:11 -Check if menu list contains 8 items
+Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+Check if icons are displayed on left menu
+Everything passed 
+2022-04-13 17:57:27 INFO commonBO.MainMenuBO:87 -Check if message counter is equal to the number of messages
+2022-04-13 17:57:27 INFO logging.Log:11 -Everything passed 
+2022-04-13 17:57:27 INFO logging.Log:11 -TEST PASSED
+2022-04-15 17:30:38 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-15 17:30:39 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-15 17:30:39 INFO commonBO.MainMenuBO:22 -Check if there are new emails in the mailbox
+2022-04-15 17:30:39 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-15 17:30:40 INFO logging.Log:11 -Everything passed 
+2022-04-15 17:30:40 INFO commonBO.MainMenuBO:14 -Get unread letters number
+2022-04-15 17:30:40 INFO logging.Log:16 -Get unread letters number
+2022-04-15 17:30:40 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-15 17:30:40 INFO commonBO.MainMenuBO:54 -Check if 'Inbox' tab is selected
+2022-04-15 17:30:40 INFO logging.Log:11 -Check if 'Inbox' tab is selected
+2022-04-15 17:30:40 INFO logging.Log:16 -Everything passed
+2022-04-15 17:30:40 INFO commonBO.MainMenuBO:64 -Check if menu list contains 8 items
+2022-04-15 17:30:40 INFO commonBO.MainMenuBO:66 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-15 17:30:45 INFO commonBO.MainMenuBO:76 -Check if icons are displayed on left menu
+2022-04-15 17:30:45 INFO logging.Log:11 -Check if menu list contains 8 items
+Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+Check if icons are displayed on left menu
+Everything passed 
+2022-04-15 17:30:45 INFO commonBO.MainMenuBO:87 -Check if message counter is equal to the number of messages
+2022-04-15 17:30:45 INFO logging.Log:11 -Everything passed 
+2022-04-15 17:30:45 INFO logging.Log:11 -TEST PASSED
+2022-04-15 18:09:26 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-15 18:09:26 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-15 18:09:26 INFO commonBO.MainMenuBO:22 -Check if there are new emails in the mailbox
+2022-04-15 18:09:26 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-15 18:09:27 INFO logging.Log:11 -Everything passed 
+2022-04-15 18:09:27 INFO commonBO.MainMenuBO:14 -Get unread letters number
+2022-04-15 18:09:27 INFO logging.Log:16 -Get unread letters number
+2022-04-15 18:09:27 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-15 18:09:27 INFO commonBO.MainMenuBO:54 -Check if 'Inbox' tab is selected
+2022-04-15 18:09:27 INFO logging.Log:11 -Check if 'Inbox' tab is selected
+2022-04-15 18:09:27 INFO logging.Log:16 -Everything passed
+2022-04-15 18:09:27 INFO commonBO.MainMenuBO:64 -Check if menu list contains 8 items
+2022-04-15 18:09:27 INFO logging.Log:11 -Check if menu list contains 8 items
+Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+Check if icons are displayed on left menu
+2022-04-15 18:09:27 INFO commonBO.MainMenuBO:70 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-15 18:09:32 INFO commonBO.MainMenuBO:80 -Check if icons are displayed on left menu
+2022-04-15 18:09:33 INFO logging.Log:11 -Everything passed 
+2022-04-15 18:09:33 INFO commonBO.MainMenuBO:88 -Check if message counter is equal to the number of messages
+2022-04-15 18:09:33 INFO logging.Log:11 -Everything passed 
+2022-04-15 18:09:33 INFO logging.Log:11 -TEST PASSED
+2022-04-15 19:05:34 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-04-15 19:05:34 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-04-15 19:05:35 INFO commonBO.MainMenuBO:22 -Check if there are new emails in the mailbox
+2022-04-15 19:05:35 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-15 19:05:36 INFO logging.Log:11 -Everything passed 
+2022-04-15 19:05:36 INFO commonBO.MainMenuBO:14 -Get unread letters number
+2022-04-15 19:05:36 INFO logging.Log:16 -Get unread letters number
+2022-04-15 19:05:36 INFO commonBO.MainMenuBO:21 -Get unread letters number
+2022-04-15 19:05:36 INFO commonBO.MainMenuBO:54 -Check if 'Inbox' tab is selected
+2022-04-15 19:05:36 INFO logging.Log:11 -Check if 'Inbox' tab is selected
+2022-04-15 19:05:36 INFO logging.Log:16 -Everything passed
+2022-04-15 19:05:36 INFO commonBO.MainMenuBO:64 -Check if menu list contains 8 items
+2022-04-15 19:05:36 INFO logging.Log:11 -Check if menu list contains 8 items
+Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+Check if icons are displayed on left menu
+2022-04-15 19:05:36 INFO commonBO.MainMenuBO:70 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-04-15 19:05:41 INFO commonBO.MainMenuBO:80 -Check if icons are displayed on left menu
+2022-04-15 19:05:41 INFO logging.Log:11 -Everything passed 
+2022-04-15 19:05:41 INFO commonBO.MainMenuBO:88 -Check if message counter is equal to the number of messages
+2022-04-15 19:05:41 INFO logging.Log:11 -Everything passed 
+2022-04-15 19:05:41 INFO logging.Log:11 -TEST PASSED

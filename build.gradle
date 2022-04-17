@@ -26,10 +26,13 @@ configurations {
 }
 dependencies {
     implementation('org.testng:testng:7.5')
-    implementation('org.aspectj:aspectjrt:1.9.8')
+   implementation('org.aspectj:aspectjrt:1.9.8')
     implementation('org.aspectj:aspectjweaver:1.9.8')
     testImplementation group: 'org.testng', name: 'testng', version: '7.5'
+
     implementation group: 'io.qameta.allure', name: 'allure-testng', version: '2.17.3'
+
+
 //    implementation group: 'io.qameta.allure', name: 'allure-maven', version: '2.8'
 //    implementation group: 'io.qameta.allure', name: 'allure-gradle', version: '2.8.1'
     implementation group: 'com.github.automatedowl', name: 'allure-environment-writer', version: '1.0.0'
@@ -39,6 +42,11 @@ dependencies {
     implementation group: 'com.google.guava', name: 'guava', version: '31.1-jre'
     implementation group: 'log4j', name: 'log4j', version: '1.2.17'
 
+    /*implementation group: 'com.google.inject', name: 'guice', version: '3.0'
+    implementation ("org.uncommons:reportng:1.1.4"){
+        exclude group: "org.testng", module: "testng"
+    }*/
+
 
 
 
@@ -46,15 +54,20 @@ dependencies {
 
 
 test {
-    useTestNG(){
-        options.useDefaultListeners true
-    }
     println System.getProperty("environment") ? System.getProperty("environment") : 'no message'
     systemProperties = System.properties
+    useTestNG(){
+        suites 'src/test/resources/suites/test.xml'
+       options{
+           options.useDefaultListeners false
+       }
+    }
+
     reports.html.enabled = true
     reports.junitXml.enabled = true
     reports.junitXml.destination = file("$buildDir/reports/tests/test/junitreports")
     reports.html.destination = file("$buildDir/reports/tests/test")
+
 }
 
 

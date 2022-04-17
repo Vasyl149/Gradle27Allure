@@ -1,10 +1,12 @@
 package page.common;
 
 import io.qameta.allure.Step;
+import logging.Log;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 import page.AbstractPageObject;
+
 import java.util.List;
 
 public class MainMenuList extends AbstractPageObject {
@@ -21,7 +23,7 @@ public class MainMenuList extends AbstractPageObject {
     @FindBy(css = "a[id='0']>span.sidebar__list-link-count")
     private WebElement counter;
 
-    @FindBy(css ="a[id='10002']")
+    @FindBy(css = "a[id='10002']")
     private WebElement draftsButton;
 
     @FindBy(css = "a[data-folder='10001']")
@@ -37,17 +39,17 @@ public class MainMenuList extends AbstractPageObject {
     private WebElement countOfDrafts;
 
     @Step
-    public void composeButton(){
+    public void composeButton() {
         composeButton.click();
     }
 
     @Step
-    public WebElement getComposeButton(){
+    public WebElement getComposeButton() {
         return composeButton;
     }
 
-    @Step
-    public List<WebElement> menuList(){
+    @Step("Get menu list")
+    public List<WebElement> menuList() {
         return menuList;
     }
 
@@ -56,40 +58,39 @@ public class MainMenuList extends AbstractPageObject {
         inboxButton.click();
     }
 
-    @Step
-    public WebElement inboxTab(){
+    @Step("Get inbox tab")
+    public WebElement inboxTab() {
         return inboxButton;
     }
 
-    @Step
-    public String getCounter(){
+    @Step("Get count of unread mails")
+    public String getCounter() {
         return counter.getText();
     }
 
     @Step
-    public void draftsButton(){
+    public void draftsButton() {
         draftsButton.click();
     }
 
     @Step
-    public void sentItemsButton(){
+    public void sentItemsButton() {
         sentItemsButton.click();
     }
 
     @Step
-    public void unreadButton(){
+    public void unreadButton() {
         unreadButton.click();
     }
 
 
-
-    @Step
-    public List<WebElement> iconList(){
+    @Step("Get icon list")
+    public List<WebElement> iconList() {
         return icons;
     }
 
     @Step
-    public int getCountOfDrafts(){
+    public int getCountOfDrafts() {
         return Integer.parseInt(countOfDrafts.getText());
 
     }

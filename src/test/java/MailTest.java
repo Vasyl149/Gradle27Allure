@@ -1,10 +1,12 @@
+import jdk.jfr.Enabled;
+import org.testng.annotations.Test;
 import page_bo.main_pages.commonBO.MainMenuBO;
 
 import java.io.FileNotFoundException;
 
 
 public class MailTest extends BaseTest {
-    //@Test
+    @Test(enabled = false)
     public void newMailWithoutRecipientTest() throws InterruptedException, FileNotFoundException {
         int draftsNumber = new MainMenuBO().getDraftsNumber();
         new MainMenuBO().openComposePage().
