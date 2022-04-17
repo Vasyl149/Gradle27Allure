@@ -8,7 +8,7 @@
 <!--        <parameter name="browser" value="chrome">-->
             <classes>
                 <class name="LeftMenuTest"/>
-<!--                <class name="MailTest"/>-->
+                <class name="MailTest"/>
             </classes>
 <!--        </parameter>-->
     </test>
