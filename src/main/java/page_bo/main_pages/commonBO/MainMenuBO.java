@@ -49,7 +49,7 @@ public class MainMenuBO extends GeneralBO {
         Assert.assertTrue(mainMenuList.getComposeButton().isDisplayed());
     }
 
-    @Step
+    @Step("Check if 'Inbox' tab is selected")
     public MainMenuBO verifyInboxIsSelected() {
         logger.info("Check if 'Inbox' tab is selected");
         Log.log("Logs","Check if 'Inbox' tab is selected");
@@ -59,7 +59,7 @@ public class MainMenuBO extends GeneralBO {
         return this;
     }
 
-    @Step
+    @Step("Check if menu list contains 8 items")
     public MainMenuBO verifyNavigationMenu() throws InterruptedException, UnsupportedEncodingException {
         logger.info("Check if menu list contains 8 items");
         Log.log("Logs","Check if menu list contains 8 items" +
@@ -67,23 +67,32 @@ public class MainMenuBO extends GeneralBO {
                         "\nCheck if icons are displayed on left menu");
 
         Assert.assertEquals(mainMenuList.menuList().size(), 8);
-        logger.info("Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.");
-        List<String> menuListNames = new ArrayList<>();
 
-        mainMenuList.menuList().forEach(el -> menuListNames.add(el.getText()));
+//        logger.info("Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.");
+//        List<String> menuListNames = new ArrayList<>();
+//
+//        mainMenuList.menuList().forEach(el -> menuListNames.add(el.getText()));
 
         Thread.sleep(5000);
         //logger.info(MenuListEnum.getNamesOfItems());
         // logger.info(menuListNames);
         //Assert.assertTrue(MenuListEnum.getNamesOfItems().equals(menuListNames));
 
+//        logger.info("Check if icons are displayed on left menu");
+//        mainMenuList.iconList().forEach(ic -> Assert.assertTrue(ic.isDisplayed()));
+//        Log.log("Message name","Everything passed ");
+        return this;
+    }
+
+    @Step("Check if icons are displayed on left menu")
+    public MainMenuBO verifyMenuIcons(){
         logger.info("Check if icons are displayed on left menu");
         mainMenuList.iconList().forEach(ic -> Assert.assertTrue(ic.isDisplayed()));
         Log.log("Message name","Everything passed ");
         return this;
     }
 
-    @Step
+    @Step("Check if message counter is equal to the number of messages")
     public MainMenuBO verifyUnreadLettersNumber(int expectedNumber) {
         logger.info("Check if message counter is equal to the number of messages");
         Log.log("Message name","Everything passed ");
