@@ -18,8 +18,9 @@ public class LeftMenuTest extends BaseTest {
                 verifyUnreadLettersPresent().
                 getUnreadLettersNumber();
 
-        new MainMenuBO().verifyInboxIsSelected()
-                .verifyNavigationMenu().
+        new MainMenuBO().verifyInboxIsSelected().
+                verifyNavigationMenu().
+                verifyMenuIcons().
                 verifyUnreadLettersNumber(unreadLetters);
 
     }
