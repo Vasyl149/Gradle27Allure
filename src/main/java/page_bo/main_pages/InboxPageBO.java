@@ -17,7 +17,7 @@ public class InboxPageBO extends MainMenuBO {
     }
 
 
-    @Step
+    @Step("Check if there are new emails in the mailbox")
     public InboxPageBO verifyUnreadLettersPresent() {
         GeneralBO.logger.info("Check if there are new emails in the mailbox");
         Assert.assertTrue(inboxPage.unreadMailList().size() > 0);
