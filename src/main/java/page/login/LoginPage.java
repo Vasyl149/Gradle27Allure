@@ -19,7 +19,7 @@ public class LoginPage extends AbstractPageObject {
 
 
 
-    @Step
+    @Step("Enter login and password")
     public void setCredentials(){
         this.email.sendKeys(conf().login());
         this.password.sendKeys(conf().password());
@@ -27,7 +27,7 @@ public class LoginPage extends AbstractPageObject {
 
     }
 
-    @Step
+    @Step("Click Login button")
     public void clickContinue(){
         continueButton.click();
     }
