@@ -32,8 +32,9 @@ public abstract class BaseTest {
         new LoginPageBO().logIn();
     }
 
-    @AfterMethod
     @Step("Driver quit")
+    @AfterMethod
+
     public void postCondition() {
         DriverManager.quit();
     }
