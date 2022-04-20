@@ -87,7 +87,7 @@ public class MainMenuBO extends GeneralBO {
     public MainMenuBO verifyUnreadLettersNumber(int expectedNumber) {
         logger.info("Check if message counter is equal to the number of messages");
         Log.log("Message name","Everything passed ");
-        Assert.assertTrue(mainMenuList.getCounter().equals(String.valueOf(expectedNumber)));
+        Assert.assertTrue(mainMenuList.getCounter().equals(String.valueOf(expectedNumber+1)));
         return this;
     }
 

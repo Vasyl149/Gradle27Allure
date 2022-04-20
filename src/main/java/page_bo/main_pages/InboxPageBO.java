@@ -20,7 +20,7 @@ public class InboxPageBO extends MainMenuBO {
     @Step
     public InboxPageBO verifyUnreadLettersPresent() {
         GeneralBO.logger.info("Check if there are new emails in the mailbox");
-        Assert.assertTrue(inboxPage.unreadMailList().size() > 20);
+        Assert.assertTrue(inboxPage.unreadMailList().size() > 0);
         Log.log("Message name","Everything passed ");
 
         return this;
