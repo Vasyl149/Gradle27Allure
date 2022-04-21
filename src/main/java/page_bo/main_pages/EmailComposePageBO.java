@@ -12,6 +12,7 @@ public class EmailComposePageBO extends MainMenuBO {
 
     @Step("Create a new mail")
     public EmailComposePageBO createNewMail() {
+        openComposePage();
         logger.info("Edit font style");
         emailComposePage.boldButton();
         emailComposePage.italicButton();

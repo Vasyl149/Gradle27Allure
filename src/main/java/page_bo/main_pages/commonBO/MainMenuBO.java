@@ -100,7 +100,7 @@ public class MainMenuBO extends GeneralBO {
         return this;
     }
 
-    @Step
+    @Step("Get count of drafts")
     public int getDraftsNumber() {
         logger.info("Get drafts number");
         return mainMenuList.getCountOfDrafts();
