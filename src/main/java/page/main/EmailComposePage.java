@@ -51,7 +51,7 @@ public class EmailComposePage extends AbstractPageObject {
         DriverManager.getDriver().switchTo().frame(textArea);
     }
 
-    @Step
+    @Step("Switch to parent frame")
     public void switchToParentFrame(){
         DriverManager.getDriver().switchTo().parentFrame();
     }
@@ -71,12 +71,12 @@ public class EmailComposePage extends AbstractPageObject {
         return message.getCssValue("font-weight");
     }
 
-    @Step
+    @Step("Open drop-down with fonts")
     public void fontDropdown(){
         fontDropdown.click();
     }
 
-    @Step
+    @Step("Get a list of fonts")
     public List<WebElement> getFontList(){
         return fontList;
     }
