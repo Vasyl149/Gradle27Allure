@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 
 
 public class MailTest extends BaseTest {
-    @Test(enabled = false)
+    @Test
     public void newMailWithoutRecipientTest() throws InterruptedException, FileNotFoundException {
         int draftsNumber = new MainMenuBO().getDraftsNumber();
         new MainMenuBO().openComposePage().
