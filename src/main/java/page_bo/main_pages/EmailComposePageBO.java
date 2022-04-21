@@ -1,5 +1,6 @@
 package page_bo.main_pages;
 
+import io.qameta.allure.Step;
 import org.testng.Assert;
 import page.main.EmailComposePage;
 import page_bo.main_pages.commonBO.MainMenuBO;
@@ -9,7 +10,7 @@ import java.io.FileNotFoundException;
 public class EmailComposePageBO extends MainMenuBO {
     EmailComposePage emailComposePage = new EmailComposePage();
 
-    public EmailComposePageBO createNewMail(){
+    public EmailComposePageBO createNewMail() {
         logger.info("Edit font style");
         emailComposePage.boldButton();
         emailComposePage.italicButton();
@@ -21,14 +22,16 @@ public class EmailComposePageBO extends MainMenuBO {
 
     }
 
-    public EmailComposePageBO verifyStyleEditingElements(){
+    @Step("Verify the style of the elements")
+    public EmailComposePageBO verifyStyleEditingElements() {
         logger.info("Verify the style of the elements");
         Assert.assertEquals(emailComposePage.fontStyle(), "italic");
         Assert.assertEquals(emailComposePage.fontWeight(), "700");
         return this;
     }
 
-    public EmailComposePageBO verifyFontsInDropdown(){
+    @Step("Verify fonts in the dropdown")
+    public EmailComposePageBO verifyFontsInDropdown() {
         logger.info("Switch to parent frame");
         emailComposePage.switchToParentFrame();
         emailComposePage.fontDropdown();
