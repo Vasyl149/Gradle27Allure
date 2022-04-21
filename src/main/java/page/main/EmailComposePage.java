@@ -37,11 +37,11 @@ public class EmailComposePage extends AbstractPageObject {
     @FindBy(css = "input.sendmsg__attachments-file-input")
     private WebElement fileInput;
 
-    @Step
+    @Step("Click on \"Bold\" button")
     public void boldButton() {
         boldButton.click();
     }
-    @Step
+    @Step("Click on \"Italic\" button")
     public void italicButton() {
         italicButton.click();
     }
@@ -61,12 +61,12 @@ public class EmailComposePage extends AbstractPageObject {
         textField.sendKeys(conf().message());
     }
 
-    @Step
+    @Step("Get font style")
     public String fontStyle(){
         return message.getCssValue("font-style");
     }
 
-    @Step
+    @Step("Get font weight")
     public String fontWeight(){
         return message.getCssValue("font-weight");
     }
