@@ -17,7 +17,7 @@ public class SentItemsPage extends AbstractPageObject {
         return sentItemEmail;
     }
 
-    @Step
+    @Step("Get sent mails")
     public String getSentItemEmail() {
         return sentItem.getText();
     }

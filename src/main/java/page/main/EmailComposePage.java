@@ -46,7 +46,7 @@ public class EmailComposePage extends AbstractPageObject {
         italicButton.click();
     }
 
-    @Step
+    @Step("Switch to the text area")
     public void switchToTextArea(){
         DriverManager.getDriver().switchTo().frame(textArea);
     }
@@ -56,7 +56,7 @@ public class EmailComposePage extends AbstractPageObject {
         DriverManager.getDriver().switchTo().parentFrame();
     }
 
-    @Step
+    @Step("Fill in the text field")
     public void fillTextField(){
         textField.sendKeys(conf().message());
     }

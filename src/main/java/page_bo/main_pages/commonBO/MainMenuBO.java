@@ -106,7 +106,7 @@ public class MainMenuBO extends GeneralBO {
         return mainMenuList.getCountOfDrafts();
     }
 
-    @Step
+    @Step ("Verify If drafts number was increased")
     public UnreadPageBO verifyDraftsNumber(int newValue, int oldValue) {
         logger.info("Verify Drafts number");
         Assert.assertTrue(newValue == (oldValue + 1));

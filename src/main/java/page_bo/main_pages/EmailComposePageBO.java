@@ -10,6 +10,7 @@ import java.io.FileNotFoundException;
 public class EmailComposePageBO extends MainMenuBO {
     EmailComposePage emailComposePage = new EmailComposePage();
 
+    @Step("Create a new mail")
     public EmailComposePageBO createNewMail() {
         logger.info("Edit font style");
         emailComposePage.boldButton();
