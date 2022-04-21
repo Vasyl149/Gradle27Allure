@@ -24,28 +24,28 @@ public class DraftsPage extends AbstractPageObject {
     @FindBy (css = "div.sendmsg__ads-ready")
     private WebElement confirmMessage;
 
-    @Step
+    @Step("Select the first item from the list of drafts")
     public void firstDraft(){
         firstDraft.click();
     }
 
-    @Step
+    @Step("click 'Send' button")
     public void sendButton(){
         sendButton.click();
     }
 
-    @Step
+    @Step("click 'Close alert' button")
     public void closeAlert(){
         alertCloseButton.click();
     }
 
-    @Step
+    @Step("Fill in email field")
     public void fillEmailField(){
         emailInputField.click();
         emailInputField.sendKeys(conf().testemail());
     }
 
-    @Step
+    @Step("Get confirm message")
     public WebElement confirmMessage(){
         return confirmMessage;
     }
