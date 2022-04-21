@@ -14,14 +14,14 @@ public class LeftMenuTest extends BaseTest {
         //System.out.println(driver.getTitle());
 
 
-        int unreadLetters = new InboxPageBO().
-                verifyUnreadLettersPresent().
-                getUnreadLettersNumber();
+        int unreadLetters = new InboxPageBO()
+                .verifyUnreadLettersPresent()
+                .getUnreadLettersNumber();
 
-        new MainMenuBO().verifyInboxIsSelected().
-                verifyNavigationMenu().
-                verifyMenuIcons().
-                verifyUnreadLettersNumber(unreadLetters);
+        new MainMenuBO().verifyInboxIsSelected()
+                .verifyNavigationMenu()
+                .verifyMenuIcons()
+                .verifyUnreadLettersNumber(unreadLetters);
 
     }
 
