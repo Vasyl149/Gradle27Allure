@@ -21,10 +21,17 @@ public class MailTest extends BaseTest {
         int newDraftsNumber = new MainMenuBO().getDraftsNumber();
         new MainMenuBO().verifyDraftsNumber(newDraftsNumber, draftsNumber);
 
+//        new MainMenuBO().draftButton()
+//                .verifySendDraft()
+//                .sentButton()
+//                .verifySentMail();
+    }
+
+    @Test(description = "Send draft")
+    public void sendDraftTest() throws InterruptedException {
         new MainMenuBO().draftButton()
                 .verifySendDraft()
                 .sentButton()
                 .verifySentMail();
     }
-
 }
