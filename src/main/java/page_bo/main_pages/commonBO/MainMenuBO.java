@@ -37,7 +37,6 @@ public class MainMenuBO extends GeneralBO {
         return new SentPageBO();
     }
 
-    @Step
     public UnreadPageBO clickUnreadButton() throws InterruptedException {
         Thread.sleep(3000);
         mainMenuList.unreadButton();
