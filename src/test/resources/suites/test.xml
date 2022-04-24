@@ -4,7 +4,7 @@
     <listeners>
         <listener class-name="listeners.ListenerTest"></listener>
     </listeners>
-    <test name="Test1">
+    <test name="Test name">
 <!--        <parameter name="browser" value="chrome">-->
             <classes>
                 <class name="LeftMenuTest"/>
