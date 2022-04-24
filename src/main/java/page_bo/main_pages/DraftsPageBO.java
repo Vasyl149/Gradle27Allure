@@ -22,7 +22,8 @@ public class DraftsPageBO extends MainMenuBO {
         logger.info("click send button");
         draftsPage.sendButton();
         Thread.sleep(4000);
-        Assert.assertTrue(draftsPage.confirmMessage().isDisplayed());
+        //Assert.assertTrue(draftsPage.confirmMessage().isDisplayed());
+        Assert.assertTrue(false);
         return this;
     }
 }
