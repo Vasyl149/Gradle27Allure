@@ -34,7 +34,6 @@ public abstract class BaseTest {
 
     @Step("Driver quit")
     @AfterMethod
-
     public void postCondition() {
         DriverManager.quit();
     }

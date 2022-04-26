@@ -10,7 +10,7 @@ import java.io.UnsupportedEncodingException;
 
 public class LeftMenuTest extends BaseTest {
     @Test(description = "Verify menu items")
-    public void menuListTest2() throws InterruptedException, UnsupportedEncodingException {
+    public void menuListTest() throws InterruptedException, UnsupportedEncodingException {
         //System.out.println(driver.getTitle());
 
 

@@ -10,8 +10,6 @@ import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-import javax.annotation.concurrent.Immutable;
-
 import static com.github.automatedowl.tools.AllureEnvironmentWriter.allureEnvironmentWriter;
 
 public class ListenerTest implements ITestListener {
@@ -73,6 +71,7 @@ public class ListenerTest implements ITestListener {
     public void onTestSuccess(ITestResult Result)
     {
         System.out.println("The name of the testcase passed is :"+Result.getName());
+
         Log.log("Result","TEST PASSED") ;
     }
     @Attachment(value = "Screenshot", type = "image/png")

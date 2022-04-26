@@ -54,6 +54,7 @@ dependencies {
 
 
 test {
+    print "Browser is: "
     println System.getProperty("environment") ? System.getProperty("environment") : 'no message'
     systemProperties = System.properties
     useTestNG(){

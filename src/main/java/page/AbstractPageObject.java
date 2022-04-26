@@ -1,5 +1,6 @@
 package page;
 
+import logging.Log;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.support.pagefactory.AjaxElementLocatorFactory;
 
@@ -13,6 +14,7 @@ public abstract class AbstractPageObject {
     protected AbstractPageObject(){
         initElements(new AjaxElementLocatorFactory(DriverManager.getDriver(),3), this);
     }
-    protected static final Logger logger1 = Logger.getLogger(MainMenuBO.class);
+    //protected static final Logger logger1 = Logger.getLogger(MainMenuBO.class);
+    protected static  final Log logger = new Log();
 
 }
