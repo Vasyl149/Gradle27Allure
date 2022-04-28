@@ -2,9 +2,7 @@ import driver.BrowserInstance;
 import driver.DriverManager;
 import io.qameta.allure.Step;
 import org.openqa.selenium.WebDriver;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Parameters;
+import org.testng.annotations.*;
 import page_bo.main_pages.loginPageBO.LoginPageBO;
 
 import static config.ConfigManager.conf;
@@ -16,7 +14,7 @@ public abstract class BaseTest {
     //Uncomment for jenkins ↓
     private final String browser = System.getProperty("environment");
 
-    @BeforeMethod
+    @BeforeClass
     //@Parameters("browser")
     @Step("Login to the application")
     public void preCondition() {
@@ -33,7 +31,7 @@ public abstract class BaseTest {
     }
 
     @Step("Driver quit")
-    @AfterMethod
+    @AfterClass
     public void postCondition() {
         DriverManager.quit();
     }
